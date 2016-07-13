@@ -1,0 +1,23 @@
+{
+  "name": "hotcn",
+  "version": "0.1.6",
+  "description": "grab data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "hotcn": "index.js"
+  },
+  "author": "lele",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "colors": "^1.1.2",
+    "commander": "^2.9.0",
+    "cookie": "^0.3.1",
+    "prompt": "^0.2.14",
+    "request": "2.67.0",
+    "lodash": "^4.13.1"
+  }
+}
