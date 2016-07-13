@@ -1,2 +1,0 @@
-# hotcn
-grab data
