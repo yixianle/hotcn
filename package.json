@@ -11,6 +11,10 @@
   },
   "author": "lele",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yixianle/hotcn.git"
+  },
   "dependencies": {
     "cheerio": "^0.20.0",
     "colors": "^1.1.2",
