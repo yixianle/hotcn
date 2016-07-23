@@ -4,7 +4,8 @@ var config = {
         login: "/user/login",
         getUser: "/user/getUser",
         getOriginByUrl: "/admin/grab/getOriginByUrl",
-        saveData: "/admin/grab/saveData"
+        saveData: "/admin/grab/saveData",
+        sitemap: "/admin/grab/sitemap"
     },
     // 本地
     local: {
