@@ -1,6 +1,6 @@
 {
   "name": "hotcn",
-  "version": "0.1.8",
+  "version": "0.1.10",
   "description": "grab data",
   "main": "index.js",
   "scripts": {
